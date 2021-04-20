@@ -1,4 +1,6 @@
 {
+  "name": "@Determinant/truffle-hdwallet-provider",
+  "version": "1.2.6",
   "private": true,
   "scripts": {
     "bootstrap": "npx lerna bootstrap",
